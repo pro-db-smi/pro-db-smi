@@ -1,0 +1,711 @@
+2013/08/26 03:32:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:33:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:34:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:35:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:35:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 03:35:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:35:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php
+---
+2013/08/26 03:35:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 03:37:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 03:37:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 03:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 03:43:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 03:43:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 03:43:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 03:43:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 03:43:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 03:43:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:01:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:01:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:01:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:01:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:03:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 04:03:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Template".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Template')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Template')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Template')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Template
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 04:03:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Template".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Template')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Template')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Template')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Template
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Template
+---
+2013/08/26 04:03:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Template".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Template')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Template')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Template')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Template
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Template
+---
+2013/08/26 04:07:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Template".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Template')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Template')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Template')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Template
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Template
+---
+2013/08/26 04:07:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Template
+---
+2013/08/26 04:07:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php
+---
+2013/08/26 04:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php
+---
+2013/08/26 04:10:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php
+---
+2013/08/26 04:10:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/
+---
+2013/08/26 04:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:12:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/page&view=about
+---
+2013/08/26 04:12:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 04:12:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 04:13:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=Chapter4/Customer
+---
+2013/08/26 04:13:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 04:13:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 04:13:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 04:14:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 15:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/Testmyweb/app/
+---
+2013/08/26 15:12:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "DbTest/showData".' in C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('DbTest/showData')
+#1 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=DbTest/showData
+---
+2013/08/26 15:27:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "DbTest/showData".' in C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('DbTest/showData')
+#1 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=DbTest/showData
+---
+2013/08/26 15:27:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/Testmyweb/app/index.php?r=DbTest/showData
+---
+2013/08/26 15:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "DbTest/showData".' in C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('DbTest/showData')
+#1 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=DbTest/showData
+---
+2013/08/26 15:32:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/Testmyweb/app/index.php?r=DbTest/showData
+---
+2013/08/26 15:32:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/Testmyweb/app/index.php?r=site/index
+---
+2013/08/26 15:33:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/Testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 15:33:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/Testmyweb/app/index.php?r=site/contact
+---
+2013/08/26 15:46:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/index
+---
+2013/08/26 15:46:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 16:12:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:26:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:26:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:26:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:26:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:26:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:42:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:42:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:44:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
+2013/08/26 17:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Customer".' in C:\AppServ\www\Testmyweb\framework\web\CController.php:483
+Stack trace:
+#0 C:\AppServ\www\Testmyweb\framework\web\CController.php(270): CController->missingAction('Customer')
+#1 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(282): CController->run('Customer')
+#2 C:\AppServ\www\Testmyweb\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Customer')
+#3 C:\AppServ\www\Testmyweb\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\AppServ\www\Testmyweb\app\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testmyweb/app/index.php?r=site/Customer
+HTTP_REFERER=http://127.0.0.1/testmyweb/app/index.php?r=site/Customer
+---
